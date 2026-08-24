@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0999-available-captures-for-rook](https://github.com/divakar834/my-leetcode-solutions/tree/main/0999-available-captures-for-rook/) | Easy |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/divakar834/my-leetcode-solutions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/divakar834/my-leetcode-solutions/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1872-stone-game-viii](https://github.com/divakar834/my-leetcode-solutions/tree/main/1872-stone-game-viii/) | Hard |
 ## Minimax
@@ -60,4 +61,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0999-available-captures-for-rook](https://github.com/divakar834/my-leetcode-solutions/tree/main/0999-available-captures-for-rook/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/divakar834/my-leetcode-solutions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/divakar834/my-leetcode-solutions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/divakar834/my-leetcode-solutions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 <!---LeetCode Topics End-->
