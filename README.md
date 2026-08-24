@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0999-available-captures-for-rook](https://github.com/divakar834/my-leetcode-solutions/tree/main/0999-available-captures-for-rook/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/divakar834/my-leetcode-solutions/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1872-stone-game-viii](https://github.com/divakar834/my-leetcode-solutions/tree/main/1872-stone-game-viii/) | Hard |
 ## Minimax
@@ -51,4 +52,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1200-minimum-absolute-difference](https://github.com/divakar834/my-leetcode-solutions/tree/main/1200-minimum-absolute-difference/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0999-available-captures-for-rook](https://github.com/divakar834/my-leetcode-solutions/tree/main/0999-available-captures-for-rook/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0999-available-captures-for-rook](https://github.com/divakar834/my-leetcode-solutions/tree/main/0999-available-captures-for-rook/) | Easy |
 <!---LeetCode Topics End-->
