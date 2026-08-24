@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/divakar834/my-leetcode-solutions/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1408-string-matching-in-an-array](https://github.com/divakar834/my-leetcode-solutions/tree/main/1408-string-matching-in-an-array/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/divakar834/my-leetcode-solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
+| [1550-three-consecutive-odds](https://github.com/divakar834/my-leetcode-solutions/tree/main/1550-three-consecutive-odds/) | Easy |
 | [1872-stone-game-viii](https://github.com/divakar834/my-leetcode-solutions/tree/main/1872-stone-game-viii/) | Hard |
 ## Minimax
 | Problem Name | Difficulty |
