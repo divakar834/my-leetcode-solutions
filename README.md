@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0999-available-captures-for-rook](https://github.com/divakar834/my-leetcode-solutions/tree/main/0999-available-captures-for-rook/) | Easy |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/divakar834/my-leetcode-solutions/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/divakar834/my-leetcode-solutions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/divakar834/my-leetcode-solutions/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/divakar834/my-leetcode-solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0859-buddy-strings](https://github.com/divakar834/my-leetcode-solutions/tree/main/0859-buddy-strings/) | Easy |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/divakar834/my-leetcode-solutions/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/divakar834/my-leetcode-solutions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/divakar834/my-leetcode-solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## String
@@ -90,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/divakar834/my-leetcode-solutions/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/divakar834/my-leetcode-solutions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
