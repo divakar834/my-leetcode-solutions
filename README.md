@@ -116,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1332-remove-palindromic-subsequences](https://github.com/divakar834/my-leetcode-solutions/tree/main/1332-remove-palindromic-subsequences/) | Easy |
 | [1360-number-of-days-between-two-dates](https://github.com/divakar834/my-leetcode-solutions/tree/main/1360-number-of-days-between-two-dates/) | Easy |
 | [1408-string-matching-in-an-array](https://github.com/divakar834/my-leetcode-solutions/tree/main/1408-string-matching-in-an-array/) | Easy |
+| [1417-reformat-the-string](https://github.com/divakar834/my-leetcode-solutions/tree/main/1417-reformat-the-string/) | Easy |
 | [1446-consecutive-characters](https://github.com/divakar834/my-leetcode-solutions/tree/main/1446-consecutive-characters/) | Easy |
 | [1629-slowest-key](https://github.com/divakar834/my-leetcode-solutions/tree/main/1629-slowest-key/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/divakar834/my-leetcode-solutions/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
