@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1629-slowest-key](https://github.com/divakar834/my-leetcode-solutions/tree/main/1629-slowest-key/) | Easy |
 | [1816-truncate-sentence](https://github.com/divakar834/my-leetcode-solutions/tree/main/1816-truncate-sentence/) | Easy |
 | [1872-stone-game-viii](https://github.com/divakar834/my-leetcode-solutions/tree/main/1872-stone-game-viii/) | Hard |
+| [1991-find-the-middle-index-in-array](https://github.com/divakar834/my-leetcode-solutions/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/divakar834/my-leetcode-solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Minimax
 | Problem Name | Difficulty |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1872-stone-game-viii](https://github.com/divakar834/my-leetcode-solutions/tree/main/1872-stone-game-viii/) | Hard |
+| [1991-find-the-middle-index-in-array](https://github.com/divakar834/my-leetcode-solutions/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
