@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/divakar834/my-leetcode-solutions/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/divakar834/my-leetcode-solutions/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/divakar834/my-leetcode-solutions/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
+| [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/divakar834/my-leetcode-solutions/tree/main/1287-element-appearing-more-than-25-in-sorted-array/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/divakar834/my-leetcode-solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/divakar834/my-leetcode-solutions/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1408-string-matching-in-an-array](https://github.com/divakar834/my-leetcode-solutions/tree/main/1408-string-matching-in-an-array/) | Easy |
