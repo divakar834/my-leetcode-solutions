@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0509-fibonacci-number](https://github.com/divakar834/my-leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/divakar834/my-leetcode-solutions/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/divakar834/my-leetcode-solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/divakar834/my-leetcode-solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1360-number-of-days-between-two-dates](https://github.com/divakar834/my-leetcode-solutions/tree/main/1360-number-of-days-between-two-dates/) | Easy |
 | [1399-count-largest-group](https://github.com/divakar834/my-leetcode-solutions/tree/main/1399-count-largest-group/) | Easy |
 | [1872-stone-game-viii](https://github.com/divakar834/my-leetcode-solutions/tree/main/1872-stone-game-viii/) | Hard |
@@ -155,4 +156,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1114-print-in-order](https://github.com/divakar834/my-leetcode-solutions/tree/main/1114-print-in-order/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/divakar834/my-leetcode-solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 <!---LeetCode Topics End-->
