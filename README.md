@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0859-buddy-strings](https://github.com/divakar834/my-leetcode-solutions/tree/main/0859-buddy-strings/) | Easy |
+| [0925-long-pressed-name](https://github.com/divakar834/my-leetcode-solutions/tree/main/0925-long-pressed-name/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/divakar834/my-leetcode-solutions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1332-remove-palindromic-subsequences](https://github.com/divakar834/my-leetcode-solutions/tree/main/1332-remove-palindromic-subsequences/) | Easy |
 | [1408-string-matching-in-an-array](https://github.com/divakar834/my-leetcode-solutions/tree/main/1408-string-matching-in-an-array/) | Easy |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0925-long-pressed-name](https://github.com/divakar834/my-leetcode-solutions/tree/main/0925-long-pressed-name/) | Easy |
 | [1332-remove-palindromic-subsequences](https://github.com/divakar834/my-leetcode-solutions/tree/main/1332-remove-palindromic-subsequences/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
