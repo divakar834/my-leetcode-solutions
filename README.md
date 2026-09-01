@@ -146,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/divakar834/my-leetcode-solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [1408-string-matching-in-an-array](https://github.com/divakar834/my-leetcode-solutions/tree/main/1408-string-matching-in-an-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -158,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/divakar834/my-leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/divakar834/my-leetcode-solutions/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/divakar834/my-leetcode-solutions/tree/main/0563-binary-tree-tilt/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/divakar834/my-leetcode-solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/divakar834/my-leetcode-solutions/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/divakar834/my-leetcode-solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 ## Depth-First Search
@@ -166,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/divakar834/my-leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/divakar834/my-leetcode-solutions/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/divakar834/my-leetcode-solutions/tree/main/0563-binary-tree-tilt/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/divakar834/my-leetcode-solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/divakar834/my-leetcode-solutions/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/divakar834/my-leetcode-solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 ## Binary Tree
@@ -173,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/divakar834/my-leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/divakar834/my-leetcode-solutions/tree/main/0563-binary-tree-tilt/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/divakar834/my-leetcode-solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/divakar834/my-leetcode-solutions/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/divakar834/my-leetcode-solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 ## DP on Trees
@@ -223,4 +227,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/divakar834/my-leetcode-solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/divakar834/my-leetcode-solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 <!---LeetCode Topics End-->
