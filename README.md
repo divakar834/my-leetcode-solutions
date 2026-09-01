@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0166-fraction-to-recurring-decimal](https://github.com/divakar834/my-leetcode-solutions/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
+| [0223-rectangle-area](https://github.com/divakar834/my-leetcode-solutions/tree/main/0223-rectangle-area/) | Medium |
 | [0509-fibonacci-number](https://github.com/divakar834/my-leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0836-rectangle-overlap](https://github.com/divakar834/my-leetcode-solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/divakar834/my-leetcode-solutions/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
@@ -263,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0223-rectangle-area](https://github.com/divakar834/my-leetcode-solutions/tree/main/0223-rectangle-area/) | Medium |
 | [0836-rectangle-overlap](https://github.com/divakar834/my-leetcode-solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/divakar834/my-leetcode-solutions/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 ## Breadth-First Search
