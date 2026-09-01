@@ -229,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/divakar834/my-leetcode-solutions/tree/main/0155-min-stack/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/divakar834/my-leetcode-solutions/tree/main/0933-number-of-recent-calls/) | Easy |
 | [1656-design-an-ordered-stream](https://github.com/divakar834/my-leetcode-solutions/tree/main/1656-design-an-ordered-stream/) | Easy |
 ## Queue
@@ -314,4 +315,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0143-reorder-list](https://github.com/divakar834/my-leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
+| [0155-min-stack](https://github.com/divakar834/my-leetcode-solutions/tree/main/0155-min-stack/) | Medium |
 <!---LeetCode Topics End-->
