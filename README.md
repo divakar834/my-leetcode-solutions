@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/divakar834/my-leetcode-solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0120-triangle](https://github.com/divakar834/my-leetcode-solutions/tree/main/0120-triangle/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/divakar834/my-leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0130-surrounded-regions](https://github.com/divakar834/my-leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0724-find-pivot-index](https://github.com/divakar834/my-leetcode-solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/divakar834/my-leetcode-solutions/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0748-shortest-completing-word](https://github.com/divakar834/my-leetcode-solutions/tree/main/0748-shortest-completing-word/) | Easy |
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/divakar834/my-leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0832-flipping-an-image](https://github.com/divakar834/my-leetcode-solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [0999-available-captures-for-rook](https://github.com/divakar834/my-leetcode-solutions/tree/main/0999-available-captures-for-rook/) | Easy |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/divakar834/my-leetcode-solutions/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
@@ -192,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/divakar834/my-leetcode-solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0130-surrounded-regions](https://github.com/divakar834/my-leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/divakar834/my-leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/divakar834/my-leetcode-solutions/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/divakar834/my-leetcode-solutions/tree/main/0563-binary-tree-tilt/) | Easy |
@@ -248,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/divakar834/my-leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/divakar834/my-leetcode-solutions/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/divakar834/my-leetcode-solutions/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/divakar834/my-leetcode-solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
@@ -291,4 +295,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/divakar834/my-leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0130-surrounded-regions](https://github.com/divakar834/my-leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
 <!---LeetCode Topics End-->
