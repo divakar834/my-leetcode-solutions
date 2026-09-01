@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/divakar834/my-leetcode-solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/divakar834/my-leetcode-solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0120-triangle](https://github.com/divakar834/my-leetcode-solutions/tree/main/0120-triangle/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/divakar834/my-leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0724-find-pivot-index](https://github.com/divakar834/my-leetcode-solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/divakar834/my-leetcode-solutions/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0748-shortest-completing-word](https://github.com/divakar834/my-leetcode-solutions/tree/main/0748-shortest-completing-word/) | Easy |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/divakar834/my-leetcode-solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/divakar834/my-leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0748-shortest-completing-word](https://github.com/divakar834/my-leetcode-solutions/tree/main/0748-shortest-completing-word/) | Easy |
 | [0859-buddy-strings](https://github.com/divakar834/my-leetcode-solutions/tree/main/0859-buddy-strings/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/divakar834/my-leetcode-solutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
@@ -285,4 +287,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/divakar834/my-leetcode-solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/divakar834/my-leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
