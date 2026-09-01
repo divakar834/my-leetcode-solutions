@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0806-number-of-lines-to-write-string](https://github.com/divakar834/my-leetcode-solutions/tree/main/0806-number-of-lines-to-write-string/) | Easy |
 | [0832-flipping-an-image](https://github.com/divakar834/my-leetcode-solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/divakar834/my-leetcode-solutions/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
+| [0942-di-string-match](https://github.com/divakar834/my-leetcode-solutions/tree/main/0942-di-string-match/) | Easy |
 | [0953-verifying-an-alien-dictionary](https://github.com/divakar834/my-leetcode-solutions/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [0999-available-captures-for-rook](https://github.com/divakar834/my-leetcode-solutions/tree/main/0999-available-captures-for-rook/) | Easy |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/divakar834/my-leetcode-solutions/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
@@ -136,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0859-buddy-strings](https://github.com/divakar834/my-leetcode-solutions/tree/main/0859-buddy-strings/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/divakar834/my-leetcode-solutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0925-long-pressed-name](https://github.com/divakar834/my-leetcode-solutions/tree/main/0925-long-pressed-name/) | Easy |
+| [0942-di-string-match](https://github.com/divakar834/my-leetcode-solutions/tree/main/0942-di-string-match/) | Easy |
 | [0953-verifying-an-alien-dictionary](https://github.com/divakar834/my-leetcode-solutions/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [1078-occurrences-after-bigram](https://github.com/divakar834/my-leetcode-solutions/tree/main/1078-occurrences-after-bigram/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/divakar834/my-leetcode-solutions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
@@ -165,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0832-flipping-an-image](https://github.com/divakar834/my-leetcode-solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [0925-long-pressed-name](https://github.com/divakar834/my-leetcode-solutions/tree/main/0925-long-pressed-name/) | Easy |
+| [0942-di-string-match](https://github.com/divakar834/my-leetcode-solutions/tree/main/0942-di-string-match/) | Easy |
 | [1332-remove-palindromic-subsequences](https://github.com/divakar834/my-leetcode-solutions/tree/main/1332-remove-palindromic-subsequences/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -239,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0942-di-string-match](https://github.com/divakar834/my-leetcode-solutions/tree/main/0942-di-string-match/) | Easy |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/divakar834/my-leetcode-solutions/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
