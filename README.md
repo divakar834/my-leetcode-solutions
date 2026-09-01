@@ -161,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0563-binary-tree-tilt](https://github.com/divakar834/my-leetcode-solutions/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/divakar834/my-leetcode-solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/divakar834/my-leetcode-solutions/tree/main/0617-merge-two-binary-trees/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/divakar834/my-leetcode-solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/divakar834/my-leetcode-solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -178,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0563-binary-tree-tilt](https://github.com/divakar834/my-leetcode-solutions/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/divakar834/my-leetcode-solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/divakar834/my-leetcode-solutions/tree/main/0617-merge-two-binary-trees/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/divakar834/my-leetcode-solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/divakar834/my-leetcode-solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 ## DP on Trees
 | Problem Name | Difficulty |
@@ -227,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/divakar834/my-leetcode-solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/divakar834/my-leetcode-solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 ## Hash Function
 | Problem Name | Difficulty |
