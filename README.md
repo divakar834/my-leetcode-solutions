@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0724-find-pivot-index](https://github.com/divakar834/my-leetcode-solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/divakar834/my-leetcode-solutions/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0748-shortest-completing-word](https://github.com/divakar834/my-leetcode-solutions/tree/main/0748-shortest-completing-word/) | Easy |
+| [0806-number-of-lines-to-write-string](https://github.com/divakar834/my-leetcode-solutions/tree/main/0806-number-of-lines-to-write-string/) | Easy |
 | [0953-verifying-an-alien-dictionary](https://github.com/divakar834/my-leetcode-solutions/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [0999-available-captures-for-rook](https://github.com/divakar834/my-leetcode-solutions/tree/main/0999-available-captures-for-rook/) | Easy |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/divakar834/my-leetcode-solutions/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0748-shortest-completing-word](https://github.com/divakar834/my-leetcode-solutions/tree/main/0748-shortest-completing-word/) | Easy |
+| [0806-number-of-lines-to-write-string](https://github.com/divakar834/my-leetcode-solutions/tree/main/0806-number-of-lines-to-write-string/) | Easy |
 | [0859-buddy-strings](https://github.com/divakar834/my-leetcode-solutions/tree/main/0859-buddy-strings/) | Easy |
 | [0925-long-pressed-name](https://github.com/divakar834/my-leetcode-solutions/tree/main/0925-long-pressed-name/) | Easy |
 | [0953-verifying-an-alien-dictionary](https://github.com/divakar834/my-leetcode-solutions/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
