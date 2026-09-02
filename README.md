@@ -141,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0166-fraction-to-recurring-decimal](https://github.com/divakar834/my-leetcode-solutions/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0187-repeated-dna-sequences](https://github.com/divakar834/my-leetcode-solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0229-majority-element-ii](https://github.com/divakar834/my-leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
+| [0299-bulls-and-cows](https://github.com/divakar834/my-leetcode-solutions/tree/main/0299-bulls-and-cows/) | Medium |
 | [0748-shortest-completing-word](https://github.com/divakar834/my-leetcode-solutions/tree/main/0748-shortest-completing-word/) | Easy |
 | [0859-buddy-strings](https://github.com/divakar834/my-leetcode-solutions/tree/main/0859-buddy-strings/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/divakar834/my-leetcode-solutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
@@ -161,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0166-fraction-to-recurring-decimal](https://github.com/divakar834/my-leetcode-solutions/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0179-largest-number](https://github.com/divakar834/my-leetcode-solutions/tree/main/0179-largest-number/) | Medium |
 | [0187-repeated-dna-sequences](https://github.com/divakar834/my-leetcode-solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
+| [0299-bulls-and-cows](https://github.com/divakar834/my-leetcode-solutions/tree/main/0299-bulls-and-cows/) | Medium |
 | [0748-shortest-completing-word](https://github.com/divakar834/my-leetcode-solutions/tree/main/0748-shortest-completing-word/) | Easy |
 | [0806-number-of-lines-to-write-string](https://github.com/divakar834/my-leetcode-solutions/tree/main/0806-number-of-lines-to-write-string/) | Easy |
 | [0824-goat-latin](https://github.com/divakar834/my-leetcode-solutions/tree/main/0824-goat-latin/) | Easy |
@@ -183,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/divakar834/my-leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
+| [0299-bulls-and-cows](https://github.com/divakar834/my-leetcode-solutions/tree/main/0299-bulls-and-cows/) | Medium |
 | [0884-uncommon-words-from-two-sentences](https://github.com/divakar834/my-leetcode-solutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/divakar834/my-leetcode-solutions/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/divakar834/my-leetcode-solutions/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
