@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/divakar834/my-leetcode-solutions/tree/main/1287-element-appearing-more-than-25-in-sorted-array/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/divakar834/my-leetcode-solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/divakar834/my-leetcode-solutions/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/divakar834/my-leetcode-solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1408-string-matching-in-an-array](https://github.com/divakar834/my-leetcode-solutions/tree/main/1408-string-matching-in-an-array/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/divakar834/my-leetcode-solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/divakar834/my-leetcode-solutions/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/divakar834/my-leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/divakar834/my-leetcode-solutions/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/divakar834/my-leetcode-solutions/tree/main/1200-minimum-absolute-difference/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/divakar834/my-leetcode-solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/divakar834/my-leetcode-solutions/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -153,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1128-number-of-equivalent-domino-pairs](https://github.com/divakar834/my-leetcode-solutions/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/divakar834/my-leetcode-solutions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/divakar834/my-leetcode-solutions/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/divakar834/my-leetcode-solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1399-count-largest-group](https://github.com/divakar834/my-leetcode-solutions/tree/main/1399-count-largest-group/) | Easy |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/divakar834/my-leetcode-solutions/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1656-design-an-ordered-stream](https://github.com/divakar834/my-leetcode-solutions/tree/main/1656-design-an-ordered-stream/) | Easy |
@@ -376,4 +379,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0316-remove-duplicate-letters](https://github.com/divakar834/my-leetcode-solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/divakar834/my-leetcode-solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 <!---LeetCode Topics End-->
