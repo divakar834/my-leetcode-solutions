@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0836-rectangle-overlap](https://github.com/divakar834/my-leetcode-solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/divakar834/my-leetcode-solutions/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/divakar834/my-leetcode-solutions/tree/main/0976-largest-perimeter-triangle/) | Easy |
+| [0989-add-to-array-form-of-integer](https://github.com/divakar834/my-leetcode-solutions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/divakar834/my-leetcode-solutions/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/divakar834/my-leetcode-solutions/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/divakar834/my-leetcode-solutions/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0953-verifying-an-alien-dictionary](https://github.com/divakar834/my-leetcode-solutions/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/divakar834/my-leetcode-solutions/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/divakar834/my-leetcode-solutions/tree/main/0976-largest-perimeter-triangle/) | Easy |
+| [0989-add-to-array-form-of-integer](https://github.com/divakar834/my-leetcode-solutions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [0999-available-captures-for-rook](https://github.com/divakar834/my-leetcode-solutions/tree/main/0999-available-captures-for-rook/) | Easy |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/divakar834/my-leetcode-solutions/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/divakar834/my-leetcode-solutions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
