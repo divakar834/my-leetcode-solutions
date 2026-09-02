@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1550-three-consecutive-odds](https://github.com/divakar834/my-leetcode-solutions/tree/main/1550-three-consecutive-odds/) | Easy |
 | [1560-most-visited-sector-in-a-circular-track](https://github.com/divakar834/my-leetcode-solutions/tree/main/1560-most-visited-sector-in-a-circular-track/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/divakar834/my-leetcode-solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
+| [1598-crawler-log-folder](https://github.com/divakar834/my-leetcode-solutions/tree/main/1598-crawler-log-folder/) | Easy |
 | [1629-slowest-key](https://github.com/divakar834/my-leetcode-solutions/tree/main/1629-slowest-key/) | Easy |
 | [1656-design-an-ordered-stream](https://github.com/divakar834/my-leetcode-solutions/tree/main/1656-design-an-ordered-stream/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/divakar834/my-leetcode-solutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
@@ -219,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1436-destination-city](https://github.com/divakar834/my-leetcode-solutions/tree/main/1436-destination-city/) | Easy |
 | [1446-consecutive-characters](https://github.com/divakar834/my-leetcode-solutions/tree/main/1446-consecutive-characters/) | Easy |
 | [1507-reformat-date](https://github.com/divakar834/my-leetcode-solutions/tree/main/1507-reformat-date/) | Easy |
+| [1598-crawler-log-folder](https://github.com/divakar834/my-leetcode-solutions/tree/main/1598-crawler-log-folder/) | Easy |
 | [1629-slowest-key](https://github.com/divakar834/my-leetcode-solutions/tree/main/1629-slowest-key/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/divakar834/my-leetcode-solutions/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [1816-truncate-sentence](https://github.com/divakar834/my-leetcode-solutions/tree/main/1816-truncate-sentence/) | Easy |
@@ -411,6 +413,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0316-remove-duplicate-letters](https://github.com/divakar834/my-leetcode-solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/divakar834/my-leetcode-solutions/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/divakar834/my-leetcode-solutions/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
+| [1598-crawler-log-folder](https://github.com/divakar834/my-leetcode-solutions/tree/main/1598-crawler-log-folder/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
