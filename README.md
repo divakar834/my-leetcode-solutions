@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0120-triangle](https://github.com/divakar834/my-leetcode-solutions/tree/main/0120-triangle/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/divakar834/my-leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/divakar834/my-leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
+| [0179-largest-number](https://github.com/divakar834/my-leetcode-solutions/tree/main/0179-largest-number/) | Medium |
 | [0229-majority-element-ii](https://github.com/divakar834/my-leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0724-find-pivot-index](https://github.com/divakar834/my-leetcode-solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/divakar834/my-leetcode-solutions/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0147-insertion-sort-list](https://github.com/divakar834/my-leetcode-solutions/tree/main/0147-insertion-sort-list/) | Medium |
+| [0179-largest-number](https://github.com/divakar834/my-leetcode-solutions/tree/main/0179-largest-number/) | Medium |
 | [0229-majority-element-ii](https://github.com/divakar834/my-leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/divakar834/my-leetcode-solutions/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/divakar834/my-leetcode-solutions/tree/main/1200-minimum-absolute-difference/) | Easy |
@@ -157,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0166-fraction-to-recurring-decimal](https://github.com/divakar834/my-leetcode-solutions/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
+| [0179-largest-number](https://github.com/divakar834/my-leetcode-solutions/tree/main/0179-largest-number/) | Medium |
 | [0187-repeated-dna-sequences](https://github.com/divakar834/my-leetcode-solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0748-shortest-completing-word](https://github.com/divakar834/my-leetcode-solutions/tree/main/0748-shortest-completing-word/) | Easy |
 | [0806-number-of-lines-to-write-string](https://github.com/divakar834/my-leetcode-solutions/tree/main/0806-number-of-lines-to-write-string/) | Easy |
@@ -286,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0179-largest-number](https://github.com/divakar834/my-leetcode-solutions/tree/main/0179-largest-number/) | Medium |
 | [0942-di-string-match](https://github.com/divakar834/my-leetcode-solutions/tree/main/0942-di-string-match/) | Easy |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/divakar834/my-leetcode-solutions/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 ## Binary Search Tree
