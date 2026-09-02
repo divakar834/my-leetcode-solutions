@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/divakar834/my-leetcode-solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1408-string-matching-in-an-array](https://github.com/divakar834/my-leetcode-solutions/tree/main/1408-string-matching-in-an-array/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/divakar834/my-leetcode-solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
+| [1436-destination-city](https://github.com/divakar834/my-leetcode-solutions/tree/main/1436-destination-city/) | Easy |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/divakar834/my-leetcode-solutions/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1550-three-consecutive-odds](https://github.com/divakar834/my-leetcode-solutions/tree/main/1550-three-consecutive-odds/) | Easy |
 | [1629-slowest-key](https://github.com/divakar834/my-leetcode-solutions/tree/main/1629-slowest-key/) | Easy |
@@ -166,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/divakar834/my-leetcode-solutions/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/divakar834/my-leetcode-solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1399-count-largest-group](https://github.com/divakar834/my-leetcode-solutions/tree/main/1399-count-largest-group/) | Easy |
+| [1436-destination-city](https://github.com/divakar834/my-leetcode-solutions/tree/main/1436-destination-city/) | Easy |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/divakar834/my-leetcode-solutions/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1656-design-an-ordered-stream](https://github.com/divakar834/my-leetcode-solutions/tree/main/1656-design-an-ordered-stream/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/divakar834/my-leetcode-solutions/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
@@ -195,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/divakar834/my-leetcode-solutions/tree/main/1374-generate-a-string-with-characters-that-have-odd-counts/) | Easy |
 | [1408-string-matching-in-an-array](https://github.com/divakar834/my-leetcode-solutions/tree/main/1408-string-matching-in-an-array/) | Easy |
 | [1417-reformat-the-string](https://github.com/divakar834/my-leetcode-solutions/tree/main/1417-reformat-the-string/) | Easy |
+| [1436-destination-city](https://github.com/divakar834/my-leetcode-solutions/tree/main/1436-destination-city/) | Easy |
 | [1446-consecutive-characters](https://github.com/divakar834/my-leetcode-solutions/tree/main/1446-consecutive-characters/) | Easy |
 | [1629-slowest-key](https://github.com/divakar834/my-leetcode-solutions/tree/main/1629-slowest-key/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/divakar834/my-leetcode-solutions/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
