@@ -169,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/divakar834/my-leetcode-solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0127-word-ladder](https://github.com/divakar834/my-leetcode-solutions/tree/main/0127-word-ladder/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/divakar834/my-leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0133-clone-graph](https://github.com/divakar834/my-leetcode-solutions/tree/main/0133-clone-graph/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/divakar834/my-leetcode-solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
@@ -198,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0127-word-ladder](https://github.com/divakar834/my-leetcode-solutions/tree/main/0127-word-ladder/) | Hard |
 | [0166-fraction-to-recurring-decimal](https://github.com/divakar834/my-leetcode-solutions/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0179-largest-number](https://github.com/divakar834/my-leetcode-solutions/tree/main/0179-largest-number/) | Medium |
 | [0187-repeated-dna-sequences](https://github.com/divakar834/my-leetcode-solutions/tree/main/0187-repeated-dna-sequences/) | Medium |
@@ -346,6 +348,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0127-word-ladder](https://github.com/divakar834/my-leetcode-solutions/tree/main/0127-word-ladder/) | Hard |
 | [0130-surrounded-regions](https://github.com/divakar834/my-leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0133-clone-graph](https://github.com/divakar834/my-leetcode-solutions/tree/main/0133-clone-graph/) | Medium |
 | [0210-course-schedule-ii](https://github.com/divakar834/my-leetcode-solutions/tree/main/0210-course-schedule-ii/) | Medium |
@@ -461,4 +464,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/divakar834/my-leetcode-solutions/tree/main/0976-largest-perimeter-triangle/) | Easy |
+## Bidirectional Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0127-word-ladder](https://github.com/divakar834/my-leetcode-solutions/tree/main/0127-word-ladder/) | Hard |
 <!---LeetCode Topics End-->
