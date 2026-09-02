@@ -226,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0617-merge-two-binary-trees](https://github.com/divakar834/my-leetcode-solutions/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/divakar834/my-leetcode-solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/divakar834/my-leetcode-solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [0965-univalued-binary-tree](https://github.com/divakar834/my-leetcode-solutions/tree/main/0965-univalued-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -239,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0572-subtree-of-another-tree](https://github.com/divakar834/my-leetcode-solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/divakar834/my-leetcode-solutions/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/divakar834/my-leetcode-solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [0965-univalued-binary-tree](https://github.com/divakar834/my-leetcode-solutions/tree/main/0965-univalued-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -250,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0617-merge-two-binary-trees](https://github.com/divakar834/my-leetcode-solutions/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/divakar834/my-leetcode-solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/divakar834/my-leetcode-solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [0965-univalued-binary-tree](https://github.com/divakar834/my-leetcode-solutions/tree/main/0965-univalued-binary-tree/) | Easy |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -299,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/divakar834/my-leetcode-solutions/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/divakar834/my-leetcode-solutions/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/divakar834/my-leetcode-solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [0965-univalued-binary-tree](https://github.com/divakar834/my-leetcode-solutions/tree/main/0965-univalued-binary-tree/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/divakar834/my-leetcode-solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
