@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/divakar834/my-leetcode-solutions/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/divakar834/my-leetcode-solutions/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/divakar834/my-leetcode-solutions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
+| [1184-distance-between-bus-stops](https://github.com/divakar834/my-leetcode-solutions/tree/main/1184-distance-between-bus-stops/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/divakar834/my-leetcode-solutions/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/divakar834/my-leetcode-solutions/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/divakar834/my-leetcode-solutions/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
