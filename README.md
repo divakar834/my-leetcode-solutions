@@ -249,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/divakar834/my-leetcode-solutions/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/divakar834/my-leetcode-solutions/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/divakar834/my-leetcode-solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/divakar834/my-leetcode-solutions/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/divakar834/my-leetcode-solutions/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/divakar834/my-leetcode-solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/divakar834/my-leetcode-solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
@@ -265,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/divakar834/my-leetcode-solutions/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0563-binary-tree-tilt](https://github.com/divakar834/my-leetcode-solutions/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/divakar834/my-leetcode-solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/divakar834/my-leetcode-solutions/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/divakar834/my-leetcode-solutions/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0733-flood-fill](https://github.com/divakar834/my-leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/divakar834/my-leetcode-solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
@@ -395,6 +397,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/divakar834/my-leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
 | [0155-min-stack](https://github.com/divakar834/my-leetcode-solutions/tree/main/0155-min-stack/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/divakar834/my-leetcode-solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/divakar834/my-leetcode-solutions/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
