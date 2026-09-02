@@ -256,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0783-minimum-distance-between-bst-nodes](https://github.com/divakar834/my-leetcode-solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/divakar834/my-leetcode-solutions/tree/main/0965-univalued-binary-tree/) | Easy |
 | [0993-cousins-in-binary-tree](https://github.com/divakar834/my-leetcode-solutions/tree/main/0993-cousins-in-binary-tree/) | Easy |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/divakar834/my-leetcode-solutions/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -274,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0783-minimum-distance-between-bst-nodes](https://github.com/divakar834/my-leetcode-solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/divakar834/my-leetcode-solutions/tree/main/0965-univalued-binary-tree/) | Easy |
 | [0993-cousins-in-binary-tree](https://github.com/divakar834/my-leetcode-solutions/tree/main/0993-cousins-in-binary-tree/) | Easy |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/divakar834/my-leetcode-solutions/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -287,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0783-minimum-distance-between-bst-nodes](https://github.com/divakar834/my-leetcode-solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/divakar834/my-leetcode-solutions/tree/main/0965-univalued-binary-tree/) | Easy |
 | [0993-cousins-in-binary-tree](https://github.com/divakar834/my-leetcode-solutions/tree/main/0993-cousins-in-binary-tree/) | Easy |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/divakar834/my-leetcode-solutions/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
