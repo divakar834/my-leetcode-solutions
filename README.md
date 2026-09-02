@@ -213,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1417-reformat-the-string](https://github.com/divakar834/my-leetcode-solutions/tree/main/1417-reformat-the-string/) | Easy |
 | [1436-destination-city](https://github.com/divakar834/my-leetcode-solutions/tree/main/1436-destination-city/) | Easy |
 | [1446-consecutive-characters](https://github.com/divakar834/my-leetcode-solutions/tree/main/1446-consecutive-characters/) | Easy |
+| [1507-reformat-date](https://github.com/divakar834/my-leetcode-solutions/tree/main/1507-reformat-date/) | Easy |
 | [1629-slowest-key](https://github.com/divakar834/my-leetcode-solutions/tree/main/1629-slowest-key/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/divakar834/my-leetcode-solutions/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [1816-truncate-sentence](https://github.com/divakar834/my-leetcode-solutions/tree/main/1816-truncate-sentence/) | Easy |
