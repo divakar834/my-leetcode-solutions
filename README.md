@@ -251,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/divakar834/my-leetcode-solutions/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1668-maximum-repeating-substring](https://github.com/divakar834/my-leetcode-solutions/tree/main/1668-maximum-repeating-substring/) | Easy |
 | [1694-reformat-phone-number](https://github.com/divakar834/my-leetcode-solutions/tree/main/1694-reformat-phone-number/) | Easy |
+| [1704-determine-if-string-halves-are-alike](https://github.com/divakar834/my-leetcode-solutions/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/divakar834/my-leetcode-solutions/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [1816-truncate-sentence](https://github.com/divakar834/my-leetcode-solutions/tree/main/1816-truncate-sentence/) | Easy |
 ## Counting
@@ -264,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/divakar834/my-leetcode-solutions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1399-count-largest-group](https://github.com/divakar834/my-leetcode-solutions/tree/main/1399-count-largest-group/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/divakar834/my-leetcode-solutions/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1704-determine-if-string-halves-are-alike](https://github.com/divakar834/my-leetcode-solutions/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
