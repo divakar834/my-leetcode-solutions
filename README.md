@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/divakar834/my-leetcode-solutions/tree/main/0179-largest-number/) | Medium |
 | [0229-majority-element-ii](https://github.com/divakar834/my-leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/divakar834/my-leetcode-solutions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+| [0717-1-bit-and-2-bit-characters](https://github.com/divakar834/my-leetcode-solutions/tree/main/0717-1-bit-and-2-bit-characters/) | Easy |
 | [0724-find-pivot-index](https://github.com/divakar834/my-leetcode-solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0733-flood-fill](https://github.com/divakar834/my-leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/divakar834/my-leetcode-solutions/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
