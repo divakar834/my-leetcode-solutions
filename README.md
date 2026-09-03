@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0976-largest-perimeter-triangle](https://github.com/divakar834/my-leetcode-solutions/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/divakar834/my-leetcode-solutions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1030-matrix-cells-in-distance-order](https://github.com/divakar834/my-leetcode-solutions/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/divakar834/my-leetcode-solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1154-day-of-the-year](https://github.com/divakar834/my-leetcode-solutions/tree/main/1154-day-of-the-year/) | Easy |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/divakar834/my-leetcode-solutions/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/divakar834/my-leetcode-solutions/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0120-triangle](https://github.com/divakar834/my-leetcode-solutions/tree/main/0120-triangle/) | Medium |
 | [0509-fibonacci-number](https://github.com/divakar834/my-leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/divakar834/my-leetcode-solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1668-maximum-repeating-substring](https://github.com/divakar834/my-leetcode-solutions/tree/main/1668-maximum-repeating-substring/) | Easy |
 | [1872-stone-game-viii](https://github.com/divakar834/my-leetcode-solutions/tree/main/1872-stone-game-viii/) | Hard |
 ## Recursion
@@ -53,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/divakar834/my-leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/divakar834/my-leetcode-solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
