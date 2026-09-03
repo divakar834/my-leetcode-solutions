@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/divakar834/my-leetcode-solutions/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/divakar834/my-leetcode-solutions/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/divakar834/my-leetcode-solutions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
+| [1030-matrix-cells-in-distance-order](https://github.com/divakar834/my-leetcode-solutions/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
 | [1154-day-of-the-year](https://github.com/divakar834/my-leetcode-solutions/tree/main/1154-day-of-the-year/) | Easy |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/divakar834/my-leetcode-solutions/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/divakar834/my-leetcode-solutions/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0997-find-the-town-judge](https://github.com/divakar834/my-leetcode-solutions/tree/main/0997-find-the-town-judge/) | Easy |
 | [0999-available-captures-for-rook](https://github.com/divakar834/my-leetcode-solutions/tree/main/0999-available-captures-for-rook/) | Easy |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/divakar834/my-leetcode-solutions/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
+| [1030-matrix-cells-in-distance-order](https://github.com/divakar834/my-leetcode-solutions/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/divakar834/my-leetcode-solutions/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/divakar834/my-leetcode-solutions/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1184-distance-between-bus-stops](https://github.com/divakar834/my-leetcode-solutions/tree/main/1184-distance-between-bus-stops/) | Easy |
@@ -162,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0747-largest-number-at-least-twice-of-others](https://github.com/divakar834/my-leetcode-solutions/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/divakar834/my-leetcode-solutions/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/divakar834/my-leetcode-solutions/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
+| [1030-matrix-cells-in-distance-order](https://github.com/divakar834/my-leetcode-solutions/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/divakar834/my-leetcode-solutions/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/divakar834/my-leetcode-solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/divakar834/my-leetcode-solutions/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
@@ -177,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/divakar834/my-leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
 | [0832-flipping-an-image](https://github.com/divakar834/my-leetcode-solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [0999-available-captures-for-rook](https://github.com/divakar834/my-leetcode-solutions/tree/main/0999-available-captures-for-rook/) | Easy |
+| [1030-matrix-cells-in-distance-order](https://github.com/divakar834/my-leetcode-solutions/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/divakar834/my-leetcode-solutions/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/divakar834/my-leetcode-solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/divakar834/my-leetcode-solutions/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
@@ -401,6 +405,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0223-rectangle-area](https://github.com/divakar834/my-leetcode-solutions/tree/main/0223-rectangle-area/) | Medium |
 | [0836-rectangle-overlap](https://github.com/divakar834/my-leetcode-solutions/tree/main/0836-rectangle-overlap/) | Easy |
+| [1030-matrix-cells-in-distance-order](https://github.com/divakar834/my-leetcode-solutions/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/divakar834/my-leetcode-solutions/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
