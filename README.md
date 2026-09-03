@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1652-defuse-the-bomb](https://github.com/divakar834/my-leetcode-solutions/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1656-design-an-ordered-stream](https://github.com/divakar834/my-leetcode-solutions/tree/main/1656-design-an-ordered-stream/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/divakar834/my-leetcode-solutions/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/divakar834/my-leetcode-solutions/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/divakar834/my-leetcode-solutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1816-truncate-sentence](https://github.com/divakar834/my-leetcode-solutions/tree/main/1816-truncate-sentence/) | Easy |
 | [1872-stone-game-viii](https://github.com/divakar834/my-leetcode-solutions/tree/main/1872-stone-game-viii/) | Hard |
@@ -178,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1560-most-visited-sector-in-a-circular-track](https://github.com/divakar834/my-leetcode-solutions/tree/main/1560-most-visited-sector-in-a-circular-track/) | Easy |
 | [1646-get-maximum-in-generated-array](https://github.com/divakar834/my-leetcode-solutions/tree/main/1646-get-maximum-in-generated-array/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/divakar834/my-leetcode-solutions/tree/main/1688-count-of-matches-in-tournament/) | Easy |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/divakar834/my-leetcode-solutions/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/divakar834/my-leetcode-solutions/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -342,6 +344,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0933-number-of-recent-calls](https://github.com/divakar834/my-leetcode-solutions/tree/main/0933-number-of-recent-calls/) | Easy |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/divakar834/my-leetcode-solutions/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -444,6 +447,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0590-n-ary-tree-postorder-traversal](https://github.com/divakar834/my-leetcode-solutions/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 | [1598-crawler-log-folder](https://github.com/divakar834/my-leetcode-solutions/tree/main/1598-crawler-log-folder/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/divakar834/my-leetcode-solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/divakar834/my-leetcode-solutions/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
