@@ -254,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1668-maximum-repeating-substring](https://github.com/divakar834/my-leetcode-solutions/tree/main/1668-maximum-repeating-substring/) | Easy |
 | [1694-reformat-phone-number](https://github.com/divakar834/my-leetcode-solutions/tree/main/1694-reformat-phone-number/) | Easy |
 | [1704-determine-if-string-halves-are-alike](https://github.com/divakar834/my-leetcode-solutions/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
+| [1736-latest-time-by-replacing-hidden-digits](https://github.com/divakar834/my-leetcode-solutions/tree/main/1736-latest-time-by-replacing-hidden-digits/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/divakar834/my-leetcode-solutions/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [1816-truncate-sentence](https://github.com/divakar834/my-leetcode-solutions/tree/main/1816-truncate-sentence/) | Easy |
 ## Counting
@@ -399,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/divakar834/my-leetcode-solutions/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/divakar834/my-leetcode-solutions/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/divakar834/my-leetcode-solutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
+| [1736-latest-time-by-replacing-hidden-digits](https://github.com/divakar834/my-leetcode-solutions/tree/main/1736-latest-time-by-replacing-hidden-digits/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
