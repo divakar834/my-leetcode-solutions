@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0085-maximal-rectangle](https://github.com/divakar834/my-leetcode-solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0120-triangle](https://github.com/divakar834/my-leetcode-solutions/tree/main/0120-triangle/) | Medium |
 | [0509-fibonacci-number](https://github.com/divakar834/my-leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/divakar834/my-leetcode-solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0068-text-justification](https://github.com/divakar834/my-leetcode-solutions/tree/main/0068-text-justification/) | Hard |
+| [0085-maximal-rectangle](https://github.com/divakar834/my-leetcode-solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0090-subsets-ii](https://github.com/divakar834/my-leetcode-solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/divakar834/my-leetcode-solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0120-triangle](https://github.com/divakar834/my-leetcode-solutions/tree/main/0120-triangle/) | Medium |
@@ -185,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0085-maximal-rectangle](https://github.com/divakar834/my-leetcode-solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0130-surrounded-regions](https://github.com/divakar834/my-leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/divakar834/my-leetcode-solutions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0733-flood-fill](https://github.com/divakar834/my-leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
@@ -495,6 +498,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0085-maximal-rectangle](https://github.com/divakar834/my-leetcode-solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0143-reorder-list](https://github.com/divakar834/my-leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
 | [0155-min-stack](https://github.com/divakar834/my-leetcode-solutions/tree/main/0155-min-stack/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/divakar834/my-leetcode-solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
@@ -531,6 +535,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0085-maximal-rectangle](https://github.com/divakar834/my-leetcode-solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/divakar834/my-leetcode-solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
