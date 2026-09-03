@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0120-triangle](https://github.com/divakar834/my-leetcode-solutions/tree/main/0120-triangle/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/divakar834/my-leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/divakar834/my-leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
+| [0135-candy](https://github.com/divakar834/my-leetcode-solutions/tree/main/0135-candy/) | Hard |
 | [0179-largest-number](https://github.com/divakar834/my-leetcode-solutions/tree/main/0179-largest-number/) | Medium |
 | [0229-majority-element-ii](https://github.com/divakar834/my-leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/divakar834/my-leetcode-solutions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
@@ -449,6 +450,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0135-candy](https://github.com/divakar834/my-leetcode-solutions/tree/main/0135-candy/) | Hard |
 | [0179-largest-number](https://github.com/divakar834/my-leetcode-solutions/tree/main/0179-largest-number/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/divakar834/my-leetcode-solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0942-di-string-match](https://github.com/divakar834/my-leetcode-solutions/tree/main/0942-di-string-match/) | Easy |
