@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0166-fraction-to-recurring-decimal](https://github.com/divakar834/my-leetcode-solutions/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0223-rectangle-area](https://github.com/divakar834/my-leetcode-solutions/tree/main/0223-rectangle-area/) | Medium |
 | [0509-fibonacci-number](https://github.com/divakar834/my-leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [0728-self-dividing-numbers](https://github.com/divakar834/my-leetcode-solutions/tree/main/0728-self-dividing-numbers/) | Easy |
 | [0836-rectangle-overlap](https://github.com/divakar834/my-leetcode-solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/divakar834/my-leetcode-solutions/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/divakar834/my-leetcode-solutions/tree/main/0976-largest-perimeter-triangle/) | Easy |
