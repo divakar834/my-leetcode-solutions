@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1629-slowest-key](https://github.com/divakar834/my-leetcode-solutions/tree/main/1629-slowest-key/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/divakar834/my-leetcode-solutions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/divakar834/my-leetcode-solutions/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
+| [1640-check-array-formation-through-concatenation](https://github.com/divakar834/my-leetcode-solutions/tree/main/1640-check-array-formation-through-concatenation/) | Easy |
 | [1656-design-an-ordered-stream](https://github.com/divakar834/my-leetcode-solutions/tree/main/1656-design-an-ordered-stream/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/divakar834/my-leetcode-solutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1816-truncate-sentence](https://github.com/divakar834/my-leetcode-solutions/tree/main/1816-truncate-sentence/) | Easy |
@@ -200,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1512-number-of-good-pairs](https://github.com/divakar834/my-leetcode-solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/divakar834/my-leetcode-solutions/tree/main/1624-largest-substring-between-two-equal-characters/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/divakar834/my-leetcode-solutions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [1640-check-array-formation-through-concatenation](https://github.com/divakar834/my-leetcode-solutions/tree/main/1640-check-array-formation-through-concatenation/) | Easy |
 | [1656-design-an-ordered-stream](https://github.com/divakar834/my-leetcode-solutions/tree/main/1656-design-an-ordered-stream/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/divakar834/my-leetcode-solutions/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/divakar834/my-leetcode-solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
