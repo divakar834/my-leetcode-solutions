@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/divakar834/my-leetcode-solutions/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/divakar834/my-leetcode-solutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/divakar834/my-leetcode-solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
+| [1773-count-items-matching-a-rule](https://github.com/divakar834/my-leetcode-solutions/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1816-truncate-sentence](https://github.com/divakar834/my-leetcode-solutions/tree/main/1816-truncate-sentence/) | Easy |
 | [1872-stone-game-viii](https://github.com/divakar834/my-leetcode-solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [1991-find-the-middle-index-in-array](https://github.com/divakar834/my-leetcode-solutions/tree/main/1991-find-the-middle-index-in-array/) | Easy |
@@ -260,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1694-reformat-phone-number](https://github.com/divakar834/my-leetcode-solutions/tree/main/1694-reformat-phone-number/) | Easy |
 | [1704-determine-if-string-halves-are-alike](https://github.com/divakar834/my-leetcode-solutions/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/divakar834/my-leetcode-solutions/tree/main/1736-latest-time-by-replacing-hidden-digits/) | Easy |
+| [1773-count-items-matching-a-rule](https://github.com/divakar834/my-leetcode-solutions/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/divakar834/my-leetcode-solutions/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [1816-truncate-sentence](https://github.com/divakar834/my-leetcode-solutions/tree/main/1816-truncate-sentence/) | Easy |
 ## Counting
