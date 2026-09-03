@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1716-calculate-money-in-leetcode-bank](https://github.com/divakar834/my-leetcode-solutions/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/divakar834/my-leetcode-solutions/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/divakar834/my-leetcode-solutions/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
+| [1822-sign-of-the-product-of-an-array](https://github.com/divakar834/my-leetcode-solutions/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1872-stone-game-viii](https://github.com/divakar834/my-leetcode-solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/divakar834/my-leetcode-solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/divakar834/my-leetcode-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1779-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/divakar834/my-leetcode-solutions/tree/main/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate/) | Easy |
 | [1800-maximum-ascending-subarray-sum](https://github.com/divakar834/my-leetcode-solutions/tree/main/1800-maximum-ascending-subarray-sum/) | Easy |
 | [1816-truncate-sentence](https://github.com/divakar834/my-leetcode-solutions/tree/main/1816-truncate-sentence/) | Easy |
+| [1822-sign-of-the-product-of-an-array](https://github.com/divakar834/my-leetcode-solutions/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1872-stone-game-viii](https://github.com/divakar834/my-leetcode-solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [1991-find-the-middle-index-in-array](https://github.com/divakar834/my-leetcode-solutions/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/divakar834/my-leetcode-solutions/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
