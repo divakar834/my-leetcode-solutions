@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1748-sum-of-unique-elements](https://github.com/divakar834/my-leetcode-solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/divakar834/my-leetcode-solutions/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1779-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/divakar834/my-leetcode-solutions/tree/main/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate/) | Easy |
+| [1800-maximum-ascending-subarray-sum](https://github.com/divakar834/my-leetcode-solutions/tree/main/1800-maximum-ascending-subarray-sum/) | Easy |
 | [1816-truncate-sentence](https://github.com/divakar834/my-leetcode-solutions/tree/main/1816-truncate-sentence/) | Easy |
 | [1872-stone-game-viii](https://github.com/divakar834/my-leetcode-solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [1991-find-the-middle-index-in-array](https://github.com/divakar834/my-leetcode-solutions/tree/main/1991-find-the-middle-index-in-array/) | Easy |
