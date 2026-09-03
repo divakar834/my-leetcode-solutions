@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1518-water-bottles](https://github.com/divakar834/my-leetcode-solutions/tree/main/1518-water-bottles/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/divakar834/my-leetcode-solutions/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/divakar834/my-leetcode-solutions/tree/main/1688-count-of-matches-in-tournament/) | Easy |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/divakar834/my-leetcode-solutions/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [1872-stone-game-viii](https://github.com/divakar834/my-leetcode-solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/divakar834/my-leetcode-solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/divakar834/my-leetcode-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
