@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/divakar834/my-leetcode-solutions/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/divakar834/my-leetcode-solutions/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/divakar834/my-leetcode-solutions/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/divakar834/my-leetcode-solutions/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
 | [1872-stone-game-viii](https://github.com/divakar834/my-leetcode-solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/divakar834/my-leetcode-solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/divakar834/my-leetcode-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -215,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1636-sort-array-by-increasing-frequency](https://github.com/divakar834/my-leetcode-solutions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1640-check-array-formation-through-concatenation](https://github.com/divakar834/my-leetcode-solutions/tree/main/1640-check-array-formation-through-concatenation/) | Easy |
 | [1656-design-an-ordered-stream](https://github.com/divakar834/my-leetcode-solutions/tree/main/1656-design-an-ordered-stream/) | Easy |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/divakar834/my-leetcode-solutions/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/divakar834/my-leetcode-solutions/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/divakar834/my-leetcode-solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/divakar834/my-leetcode-solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -270,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1399-count-largest-group](https://github.com/divakar834/my-leetcode-solutions/tree/main/1399-count-largest-group/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/divakar834/my-leetcode-solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1704-determine-if-string-halves-are-alike](https://github.com/divakar834/my-leetcode-solutions/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/divakar834/my-leetcode-solutions/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
