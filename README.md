@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1598-crawler-log-folder](https://github.com/divakar834/my-leetcode-solutions/tree/main/1598-crawler-log-folder/) | Easy |
 | [1629-slowest-key](https://github.com/divakar834/my-leetcode-solutions/tree/main/1629-slowest-key/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/divakar834/my-leetcode-solutions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/divakar834/my-leetcode-solutions/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
 | [1656-design-an-ordered-stream](https://github.com/divakar834/my-leetcode-solutions/tree/main/1656-design-an-ordered-stream/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/divakar834/my-leetcode-solutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1816-truncate-sentence](https://github.com/divakar834/my-leetcode-solutions/tree/main/1816-truncate-sentence/) | Easy |
@@ -147,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/divakar834/my-leetcode-solutions/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/divakar834/my-leetcode-solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/divakar834/my-leetcode-solutions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/divakar834/my-leetcode-solutions/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/divakar834/my-leetcode-solutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
