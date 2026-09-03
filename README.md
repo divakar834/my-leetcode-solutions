@@ -142,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0304-range-sum-query-2d-immutable](https://github.com/divakar834/my-leetcode-solutions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0724-find-pivot-index](https://github.com/divakar834/my-leetcode-solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/divakar834/my-leetcode-solutions/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/divakar834/my-leetcode-solutions/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/divakar834/my-leetcode-solutions/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1872-stone-game-viii](https://github.com/divakar834/my-leetcode-solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [1991-find-the-middle-index-in-array](https://github.com/divakar834/my-leetcode-solutions/tree/main/1991-find-the-middle-index-in-array/) | Easy |
@@ -269,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/divakar834/my-leetcode-solutions/tree/main/1374-generate-a-string-with-characters-that-have-odd-counts/) | Easy |
 | [1408-string-matching-in-an-array](https://github.com/divakar834/my-leetcode-solutions/tree/main/1408-string-matching-in-an-array/) | Easy |
 | [1417-reformat-the-string](https://github.com/divakar834/my-leetcode-solutions/tree/main/1417-reformat-the-string/) | Easy |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/divakar834/my-leetcode-solutions/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
 | [1436-destination-city](https://github.com/divakar834/my-leetcode-solutions/tree/main/1436-destination-city/) | Easy |
 | [1446-consecutive-characters](https://github.com/divakar834/my-leetcode-solutions/tree/main/1446-consecutive-characters/) | Easy |
 | [1507-reformat-date](https://github.com/divakar834/my-leetcode-solutions/tree/main/1507-reformat-date/) | Easy |
