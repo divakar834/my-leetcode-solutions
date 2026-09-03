@@ -221,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1656-design-an-ordered-stream](https://github.com/divakar834/my-leetcode-solutions/tree/main/1656-design-an-ordered-stream/) | Easy |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/divakar834/my-leetcode-solutions/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/divakar834/my-leetcode-solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/divakar834/my-leetcode-solutions/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/divakar834/my-leetcode-solutions/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/divakar834/my-leetcode-solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/divakar834/my-leetcode-solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -264,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/divakar834/my-leetcode-solutions/tree/main/1736-latest-time-by-replacing-hidden-digits/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/divakar834/my-leetcode-solutions/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/divakar834/my-leetcode-solutions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/divakar834/my-leetcode-solutions/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/divakar834/my-leetcode-solutions/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [1816-truncate-sentence](https://github.com/divakar834/my-leetcode-solutions/tree/main/1816-truncate-sentence/) | Easy |
 ## Counting
@@ -280,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1704-determine-if-string-halves-are-alike](https://github.com/divakar834/my-leetcode-solutions/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/divakar834/my-leetcode-solutions/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/divakar834/my-leetcode-solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/divakar834/my-leetcode-solutions/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
