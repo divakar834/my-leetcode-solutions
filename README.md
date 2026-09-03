@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1486-xor-operation-in-an-array](https://github.com/divakar834/my-leetcode-solutions/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/divakar834/my-leetcode-solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/divakar834/my-leetcode-solutions/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
+| [1688-count-of-matches-in-tournament](https://github.com/divakar834/my-leetcode-solutions/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1872-stone-game-viii](https://github.com/divakar834/my-leetcode-solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/divakar834/my-leetcode-solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/divakar834/my-leetcode-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -176,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/divakar834/my-leetcode-solutions/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [1560-most-visited-sector-in-a-circular-track](https://github.com/divakar834/my-leetcode-solutions/tree/main/1560-most-visited-sector-in-a-circular-track/) | Easy |
 | [1646-get-maximum-in-generated-array](https://github.com/divakar834/my-leetcode-solutions/tree/main/1646-get-maximum-in-generated-array/) | Easy |
+| [1688-count-of-matches-in-tournament](https://github.com/divakar834/my-leetcode-solutions/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/divakar834/my-leetcode-solutions/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
