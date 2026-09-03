@@ -263,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1704-determine-if-string-halves-are-alike](https://github.com/divakar834/my-leetcode-solutions/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/divakar834/my-leetcode-solutions/tree/main/1736-latest-time-by-replacing-hidden-digits/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/divakar834/my-leetcode-solutions/tree/main/1773-count-items-matching-a-rule/) | Easy |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/divakar834/my-leetcode-solutions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/divakar834/my-leetcode-solutions/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [1816-truncate-sentence](https://github.com/divakar834/my-leetcode-solutions/tree/main/1816-truncate-sentence/) | Easy |
 ## Counting
