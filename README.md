@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0068-text-justification](https://github.com/divakar834/my-leetcode-solutions/tree/main/0068-text-justification/) | Hard |
 | [0090-subsets-ii](https://github.com/divakar834/my-leetcode-solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/divakar834/my-leetcode-solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0120-triangle](https://github.com/divakar834/my-leetcode-solutions/tree/main/0120-triangle/) | Medium |
@@ -197,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0068-text-justification](https://github.com/divakar834/my-leetcode-solutions/tree/main/0068-text-justification/) | Hard |
 | [0832-flipping-an-image](https://github.com/divakar834/my-leetcode-solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [0999-available-captures-for-rook](https://github.com/divakar834/my-leetcode-solutions/tree/main/0999-available-captures-for-rook/) | Easy |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/divakar834/my-leetcode-solutions/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
@@ -249,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0068-text-justification](https://github.com/divakar834/my-leetcode-solutions/tree/main/0068-text-justification/) | Hard |
 | [0127-word-ladder](https://github.com/divakar834/my-leetcode-solutions/tree/main/0127-word-ladder/) | Hard |
 | [0166-fraction-to-recurring-decimal](https://github.com/divakar834/my-leetcode-solutions/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0179-largest-number](https://github.com/divakar834/my-leetcode-solutions/tree/main/0179-largest-number/) | Medium |
