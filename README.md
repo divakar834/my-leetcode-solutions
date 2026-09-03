@@ -275,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1422-maximum-score-after-splitting-a-string](https://github.com/divakar834/my-leetcode-solutions/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
 | [1436-destination-city](https://github.com/divakar834/my-leetcode-solutions/tree/main/1436-destination-city/) | Easy |
 | [1446-consecutive-characters](https://github.com/divakar834/my-leetcode-solutions/tree/main/1446-consecutive-characters/) | Easy |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/divakar834/my-leetcode-solutions/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
 | [1507-reformat-date](https://github.com/divakar834/my-leetcode-solutions/tree/main/1507-reformat-date/) | Easy |
 | [1598-crawler-log-folder](https://github.com/divakar834/my-leetcode-solutions/tree/main/1598-crawler-log-folder/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/divakar834/my-leetcode-solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -312,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/divakar834/my-leetcode-solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [1408-string-matching-in-an-array](https://github.com/divakar834/my-leetcode-solutions/tree/main/1408-string-matching-in-an-array/) | Easy |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/divakar834/my-leetcode-solutions/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
 | [1668-maximum-repeating-substring](https://github.com/divakar834/my-leetcode-solutions/tree/main/1668-maximum-repeating-substring/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -321,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0925-long-pressed-name](https://github.com/divakar834/my-leetcode-solutions/tree/main/0925-long-pressed-name/) | Easy |
 | [0942-di-string-match](https://github.com/divakar834/my-leetcode-solutions/tree/main/0942-di-string-match/) | Easy |
 | [1332-remove-palindromic-subsequences](https://github.com/divakar834/my-leetcode-solutions/tree/main/1332-remove-palindromic-subsequences/) | Easy |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/divakar834/my-leetcode-solutions/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
