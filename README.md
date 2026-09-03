@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0085-maximal-rectangle](https://github.com/divakar834/my-leetcode-solutions/tree/main/0085-maximal-rectangle/) | Hard |
+| [0087-scramble-string](https://github.com/divakar834/my-leetcode-solutions/tree/main/0087-scramble-string/) | Hard |
 | [0120-triangle](https://github.com/divakar834/my-leetcode-solutions/tree/main/0120-triangle/) | Medium |
 | [0509-fibonacci-number](https://github.com/divakar834/my-leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/divakar834/my-leetcode-solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
@@ -255,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0068-text-justification](https://github.com/divakar834/my-leetcode-solutions/tree/main/0068-text-justification/) | Hard |
+| [0087-scramble-string](https://github.com/divakar834/my-leetcode-solutions/tree/main/0087-scramble-string/) | Hard |
 | [0127-word-ladder](https://github.com/divakar834/my-leetcode-solutions/tree/main/0127-word-ladder/) | Hard |
 | [0166-fraction-to-recurring-decimal](https://github.com/divakar834/my-leetcode-solutions/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0179-largest-number](https://github.com/divakar834/my-leetcode-solutions/tree/main/0179-largest-number/) | Medium |
