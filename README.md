@@ -194,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1436-destination-city](https://github.com/divakar834/my-leetcode-solutions/tree/main/1436-destination-city/) | Easy |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/divakar834/my-leetcode-solutions/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/divakar834/my-leetcode-solutions/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/divakar834/my-leetcode-solutions/tree/main/1624-largest-substring-between-two-equal-characters/) | Easy |
 | [1656-design-an-ordered-stream](https://github.com/divakar834/my-leetcode-solutions/tree/main/1656-design-an-ordered-stream/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/divakar834/my-leetcode-solutions/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/divakar834/my-leetcode-solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -229,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1507-reformat-date](https://github.com/divakar834/my-leetcode-solutions/tree/main/1507-reformat-date/) | Easy |
 | [1598-crawler-log-folder](https://github.com/divakar834/my-leetcode-solutions/tree/main/1598-crawler-log-folder/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/divakar834/my-leetcode-solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/divakar834/my-leetcode-solutions/tree/main/1624-largest-substring-between-two-equal-characters/) | Easy |
 | [1629-slowest-key](https://github.com/divakar834/my-leetcode-solutions/tree/main/1629-slowest-key/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/divakar834/my-leetcode-solutions/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [1816-truncate-sentence](https://github.com/divakar834/my-leetcode-solutions/tree/main/1816-truncate-sentence/) | Easy |
