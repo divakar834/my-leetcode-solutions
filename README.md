@@ -138,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2022-convert-1d-array-into-2d-array](https://github.com/divakar834/my-leetcode-solutions/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/divakar834/my-leetcode-solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/divakar834/my-leetcode-solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/divakar834/my-leetcode-solutions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/divakar834/my-leetcode-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/divakar834/my-leetcode-solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3904-smallest-stable-index-ii](https://github.com/divakar834/my-leetcode-solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
@@ -256,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1805-number-of-different-integers-in-a-string](https://github.com/divakar834/my-leetcode-solutions/tree/main/1805-number-of-different-integers-in-a-string/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/divakar834/my-leetcode-solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/divakar834/my-leetcode-solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/divakar834/my-leetcode-solutions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
