@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/divakar834/my-leetcode-solutions/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1668-maximum-repeating-substring](https://github.com/divakar834/my-leetcode-solutions/tree/main/1668-maximum-repeating-substring/) | Easy |
 | [1872-stone-game-viii](https://github.com/divakar834/my-leetcode-solutions/tree/main/1872-stone-game-viii/) | Hard |
+| [2463-minimum-total-distance-traveled](https://github.com/divakar834/my-leetcode-solutions/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -138,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1872-stone-game-viii](https://github.com/divakar834/my-leetcode-solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [1991-find-the-middle-index-in-array](https://github.com/divakar834/my-leetcode-solutions/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/divakar834/my-leetcode-solutions/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
+| [2463-minimum-total-distance-traveled](https://github.com/divakar834/my-leetcode-solutions/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/divakar834/my-leetcode-solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/divakar834/my-leetcode-solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/divakar834/my-leetcode-solutions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -193,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1636-sort-array-by-increasing-frequency](https://github.com/divakar834/my-leetcode-solutions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/divakar834/my-leetcode-solutions/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/divakar834/my-leetcode-solutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
+| [2463-minimum-total-distance-traveled](https://github.com/divakar834/my-leetcode-solutions/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
