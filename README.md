@@ -134,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1800-maximum-ascending-subarray-sum](https://github.com/divakar834/my-leetcode-solutions/tree/main/1800-maximum-ascending-subarray-sum/) | Easy |
 | [1816-truncate-sentence](https://github.com/divakar834/my-leetcode-solutions/tree/main/1816-truncate-sentence/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/divakar834/my-leetcode-solutions/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
+| [1848-minimum-distance-to-the-target-element](https://github.com/divakar834/my-leetcode-solutions/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1872-stone-game-viii](https://github.com/divakar834/my-leetcode-solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [1991-find-the-middle-index-in-array](https://github.com/divakar834/my-leetcode-solutions/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/divakar834/my-leetcode-solutions/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
