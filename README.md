@@ -145,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2078-two-furthest-houses-with-different-colors](https://github.com/divakar834/my-leetcode-solutions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/divakar834/my-leetcode-solutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/divakar834/my-leetcode-solutions/tree/main/2463-minimum-total-distance-traveled/) | Hard |
+| [2615-sum-of-distances](https://github.com/divakar834/my-leetcode-solutions/tree/main/2615-sum-of-distances/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/divakar834/my-leetcode-solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/divakar834/my-leetcode-solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/divakar834/my-leetcode-solutions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -166,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/divakar834/my-leetcode-solutions/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1872-stone-game-viii](https://github.com/divakar834/my-leetcode-solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [1991-find-the-middle-index-in-array](https://github.com/divakar834/my-leetcode-solutions/tree/main/1991-find-the-middle-index-in-array/) | Easy |
+| [2615-sum-of-distances](https://github.com/divakar834/my-leetcode-solutions/tree/main/2615-sum-of-distances/) | Medium |
 | [3904-smallest-stable-index-ii](https://github.com/divakar834/my-leetcode-solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
@@ -266,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/divakar834/my-leetcode-solutions/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/divakar834/my-leetcode-solutions/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [1805-number-of-different-integers-in-a-string](https://github.com/divakar834/my-leetcode-solutions/tree/main/1805-number-of-different-integers-in-a-string/) | Easy |
+| [2615-sum-of-distances](https://github.com/divakar834/my-leetcode-solutions/tree/main/2615-sum-of-distances/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/divakar834/my-leetcode-solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/divakar834/my-leetcode-solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/divakar834/my-leetcode-solutions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
