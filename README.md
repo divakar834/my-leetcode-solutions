@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1822-sign-of-the-product-of-an-array](https://github.com/divakar834/my-leetcode-solutions/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1872-stone-game-viii](https://github.com/divakar834/my-leetcode-solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/divakar834/my-leetcode-solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
+| [3783-mirror-distance-of-an-integer](https://github.com/divakar834/my-leetcode-solutions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/divakar834/my-leetcode-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/divakar834/my-leetcode-solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Dynamic Programming
