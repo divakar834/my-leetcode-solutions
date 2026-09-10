@@ -325,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1812-determine-color-of-a-chessboard-square](https://github.com/divakar834/my-leetcode-solutions/tree/main/1812-determine-color-of-a-chessboard-square/) | Easy |
 | [1816-truncate-sentence](https://github.com/divakar834/my-leetcode-solutions/tree/main/1816-truncate-sentence/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/divakar834/my-leetcode-solutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
+| [2833-furthest-point-from-origin](https://github.com/divakar834/my-leetcode-solutions/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -340,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/divakar834/my-leetcode-solutions/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/divakar834/my-leetcode-solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/divakar834/my-leetcode-solutions/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
+| [2833-furthest-point-from-origin](https://github.com/divakar834/my-leetcode-solutions/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
