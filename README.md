@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1816-truncate-sentence](https://github.com/divakar834/my-leetcode-solutions/tree/main/1816-truncate-sentence/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/divakar834/my-leetcode-solutions/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/divakar834/my-leetcode-solutions/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/divakar834/my-leetcode-solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1872-stone-game-viii](https://github.com/divakar834/my-leetcode-solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [1991-find-the-middle-index-in-array](https://github.com/divakar834/my-leetcode-solutions/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/divakar834/my-leetcode-solutions/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
@@ -348,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0942-di-string-match](https://github.com/divakar834/my-leetcode-solutions/tree/main/0942-di-string-match/) | Easy |
 | [1332-remove-palindromic-subsequences](https://github.com/divakar834/my-leetcode-solutions/tree/main/1332-remove-palindromic-subsequences/) | Easy |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/divakar834/my-leetcode-solutions/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/divakar834/my-leetcode-solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -481,6 +483,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0098-validate-binary-search-tree](https://github.com/divakar834/my-leetcode-solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/divakar834/my-leetcode-solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/divakar834/my-leetcode-solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/divakar834/my-leetcode-solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
