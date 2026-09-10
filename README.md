@@ -365,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0993-cousins-in-binary-tree](https://github.com/divakar834/my-leetcode-solutions/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/divakar834/my-leetcode-solutions/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/divakar834/my-leetcode-solutions/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/divakar834/my-leetcode-solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -385,6 +386,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0993-cousins-in-binary-tree](https://github.com/divakar834/my-leetcode-solutions/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/divakar834/my-leetcode-solutions/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/divakar834/my-leetcode-solutions/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/divakar834/my-leetcode-solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -400,6 +402,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0993-cousins-in-binary-tree](https://github.com/divakar834/my-leetcode-solutions/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/divakar834/my-leetcode-solutions/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/divakar834/my-leetcode-solutions/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/divakar834/my-leetcode-solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
