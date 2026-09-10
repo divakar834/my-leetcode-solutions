@@ -147,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2463-minimum-total-distance-traveled](https://github.com/divakar834/my-leetcode-solutions/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2553-separate-the-digits-in-an-array](https://github.com/divakar834/my-leetcode-solutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2615-sum-of-distances](https://github.com/divakar834/my-leetcode-solutions/tree/main/2615-sum-of-distances/) | Medium |
+| [2784-check-if-array-is-good](https://github.com/divakar834/my-leetcode-solutions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/divakar834/my-leetcode-solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/divakar834/my-leetcode-solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/divakar834/my-leetcode-solutions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -204,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/divakar834/my-leetcode-solutions/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/divakar834/my-leetcode-solutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [2463-minimum-total-distance-traveled](https://github.com/divakar834/my-leetcode-solutions/tree/main/2463-minimum-total-distance-traveled/) | Hard |
+| [2784-check-if-array-is-good](https://github.com/divakar834/my-leetcode-solutions/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -271,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1796-second-largest-digit-in-a-string](https://github.com/divakar834/my-leetcode-solutions/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [1805-number-of-different-integers-in-a-string](https://github.com/divakar834/my-leetcode-solutions/tree/main/1805-number-of-different-integers-in-a-string/) | Easy |
 | [2615-sum-of-distances](https://github.com/divakar834/my-leetcode-solutions/tree/main/2615-sum-of-distances/) | Medium |
+| [2784-check-if-array-is-good](https://github.com/divakar834/my-leetcode-solutions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/divakar834/my-leetcode-solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/divakar834/my-leetcode-solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/divakar834/my-leetcode-solutions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
